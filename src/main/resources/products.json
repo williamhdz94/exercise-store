@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Lavadora",
+        "price": 900.0,
+        "stock": 7
+    },
+    {
+        "id": 1,
+        "name": "Laptop",
+        "price": 900.0,
+        "stock": 7
+    },
+    {
+        "id": 1,
+        "name": "Impresora",
+        "price": 2000.0,
+        "stock": 7
+    }
+]
